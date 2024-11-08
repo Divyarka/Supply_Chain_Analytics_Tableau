@@ -1,7 +1,5 @@
 # Supply_Chain_Analytics_Tableau
 
-Challenge [Link](https://codebasics.io/event/codebasics-resume-project-challenge)
-
 Live Dashboard [Link](https://public.tableau.com/views/AtliQSupplyChainDashboards/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 Storyboard Presentation [Link](https://public.tableau.com/views/AtliQSCStoryboard/StoryofAtliQsSupplyChainperformance?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
